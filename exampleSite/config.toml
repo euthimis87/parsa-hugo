@@ -16,7 +16,7 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "Alexia Politaki, Efthymis Liapatis"
+author = "Alexia Politaki & Efthymis Liapatis"
 author_image = "images/banner-img.png"
 bio = ""
 contact_form_action = "#"
