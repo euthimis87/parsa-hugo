@@ -33,7 +33,7 @@ search = true
 [params.instafeed]
 access_token = "fb2e77d.47a0479900504cb3ab4a1f626d174d2d"
 enable = true
-user_id = "1574083"
+user_id = "8502618274"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
