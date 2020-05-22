@@ -1,4 +1,4 @@
-baseURL = "https://parsha-hugo-test-netlify.com"
+baseURL = "https://focused-kalam-349dee.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
