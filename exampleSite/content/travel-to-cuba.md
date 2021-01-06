@@ -2,7 +2,6 @@
 categories = ["friends", "caribbean", "cuba", "travel"]
 date = 2021-01-05T22:00:00Z
 description = "Some stories and advices for Cuba"
-draft = true
 image = "/images/dsc_0088.JPG"
 tags = []
 title = "Travel to Cuba"
@@ -41,7 +40,7 @@ type = "post"
 
 ### Αβάνα
 
-![](/images/malecon.jpg)
+![Malecon](/images/malecon.jpg "Malecon")
 
 Η Αβάνα είναι η πρωτεύουσα της Κούβας
 
