@@ -8,3 +8,4 @@ title = "Tasting Balinese food"
 type = "post"
 
 +++
+What to taste during your stay in Bali?
