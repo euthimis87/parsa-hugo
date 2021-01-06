@@ -28,4 +28,5 @@ fields:
   description: 'type: post or featured'
 pages:
 - exampleSite/content/bali.md
+- exampleSite/content/sri-lanka.md
 - exampleSite/content/travel-to-cuba.md
