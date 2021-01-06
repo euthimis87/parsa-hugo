@@ -1,6 +1,6 @@
 +++
 categories = ["travel"]
-date = 2021-01-05T22:00:00Z
+date = 2018-12-31T22:00:00Z
 description = "Some stories and advices for Cuba"
 image = "/images/dsc_0088.JPG"
 tags = []
