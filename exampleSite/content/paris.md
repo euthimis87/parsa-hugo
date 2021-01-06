@@ -1,10 +1,10 @@
 +++
 categories = ["travel"]
-date = 2020-01-17T22:00:00Z
+date = 2019-04-30T21:00:00Z
 description = ""
-image = "/images/891491f4-9811-4b1d-93be-17f236cf1ee2.jpg"
+image = "/images/136692673_224474902616956_5509920225054632504_n.jpg"
 tags = []
-title = "Paris"
+title = "Georgia"
 type = "featured"
 
 +++
