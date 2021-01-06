@@ -28,6 +28,7 @@ fields:
   description: 'type: post or featured'
 pages:
 - exampleSite/content/bali.md
+- exampleSite/content/meditating.md
 - exampleSite/content/paris.md
 - exampleSite/content/sri-lanka.md
 - exampleSite/content/tasting-balinese-food.md
