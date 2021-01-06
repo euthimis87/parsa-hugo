@@ -8,3 +8,4 @@ title = "Meditating"
 type = "post"
 
 +++
+Find the best places for meditation in Bali.
