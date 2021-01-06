@@ -2,7 +2,8 @@
 categories = ["friends", "caribbean", "cuba", "travel"]
 date = 2021-01-05T22:00:00Z
 description = "Some stories and advices for Cuba"
-image = "/images/dsc_0088.JPG"
+draft = true
+image = ""
 tags = []
 title = "Travel to Cuba"
 type = "post"
