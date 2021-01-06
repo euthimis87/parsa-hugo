@@ -5,6 +5,6 @@ description = ""
 image = "/images/dsc_0408.JPG"
 tags = []
 title = "Bali"
-type = "post"
+type = "featured"
 
 +++
