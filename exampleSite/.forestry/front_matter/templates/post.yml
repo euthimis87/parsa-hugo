@@ -27,4 +27,5 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/bali.md
 - exampleSite/content/travel-to-cuba.md
