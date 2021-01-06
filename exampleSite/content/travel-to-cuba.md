@@ -5,7 +5,7 @@ description = "Some stories and advices for Cuba"
 image = "/images/dsc_0088.JPG"
 tags = []
 title = "Travel to Cuba"
-type = "post"
+type = "featured"
 
 +++
 **Intro**
