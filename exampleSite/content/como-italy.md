@@ -5,6 +5,6 @@ description = ""
 image = "/images/img_8119.jpeg"
 tags = ["travel"]
 title = "Como, Italy"
-type = "featured"
+type = "post"
 
 +++
