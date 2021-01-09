@@ -5,6 +5,6 @@ description = ""
 image = "/images/136692673_224474902616956_5509920225054632504_n.jpg"
 tags = []
 title = "Georgia"
-type = "featured"
+type = "post"
 
 +++
