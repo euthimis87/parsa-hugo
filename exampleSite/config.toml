@@ -1,6 +1,6 @@
 baseURL = "https://focused-kalam-349dee.netlify.app"
 languageCode = "en-us"
-paginate = 6
+paginate = "6"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Wayfaring Effect"
@@ -15,7 +15,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = ""
 author = "Alexia Politaki & Efthymis Liapatis"
 author_image = "images/banner-img.png"
 bio = ""
@@ -26,7 +26,7 @@ email = "eliapatis@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
+logo = "images/group-1.png"
 mobile = "+30 693 1922283"
 preloader = true
 search = true
