@@ -27,6 +27,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/amorgos.md
 - exampleSite/content/bali.md
 - exampleSite/content/koufonhsia.md
 - exampleSite/content/meditating.md
