@@ -63,7 +63,10 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
+URL = ""
+icon = "#"
+[[params.social]]
+URL = "https://www.facebook.com/euthimis.liapatis"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
