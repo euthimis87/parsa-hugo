@@ -27,16 +27,6 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
-- name: color_picker
-  type: color
-  label: color picker
-  config:
-    required: false
-    color_format: Hex
-- name: image_collection
-  type: image_gallery
-  config: {}
-  label: image collection
 pages:
 - exampleSite/content/amorgos.md
 - exampleSite/content/bali.md
