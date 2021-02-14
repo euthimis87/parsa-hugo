@@ -15,7 +15,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = ""
+address = "No static address"
 author = "The Wayfaring Effect"
 author_image = "images/banner-img.png"
 bio = "Digital Nomads"
