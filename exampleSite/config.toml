@@ -31,7 +31,7 @@ mobile = "+30 693 1922283"
 preloader = true
 search = true
 [params.instafeed]
-access_token = "IGQVJXQXBZAeVNSSmhITHFKV3ZAPZAU1xZAWlROTlGMElwM241LTNCakI4d2plWWNIc2YwMUxrbjNySGFnaVo5TWhZAejNTd05ubl9CU2lhU0tyclZAMUjlFZAG1pQjFZARDdJWnNhMUFDN1ZAaQWtYMzdPMXdCcgZDZD"
+access_token = "IGQVJXc0M3UExkLXptY0RSdUI3UW1lcGF4S3NUUGVudklZAYkY3d0pMUGllazhoaF91M3N4SnVNUTh2M0NrWjEwVWVvelo0dkdTQUNVSE9JTEpxUWRCZATlWLXVpM2NZAeGNoNFEwMmtIQkFzb0l2QnJwdwZDZD"
 enable = true
 user_id = "1949740958"
 [[params.plugins.css]]
